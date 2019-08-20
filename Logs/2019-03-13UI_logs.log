@@ -1,0 +1,145 @@
+2019/03/13 14:52:18 PM - INFO - 打开网页
+2019/03/13 14:52:52 PM - INFO - 打开网页
+2019/03/13 14:53:19 PM - INFO - 打开网页
+2019/03/13 14:54:19 PM - INFO - 打开网页
+2019/03/13 14:54:19 PM - INFO - 输入用户名
+2019/03/13 14:54:19 PM - INFO - 输入密码
+2019/03/13 14:54:19 PM - INFO - 输入验证码
+2019/03/13 14:54:20 PM - INFO - 点击登录
+2019/03/13 14:54:36 PM - INFO - 打开网页
+2019/03/13 14:54:36 PM - INFO - 输入用户名
+2019/03/13 14:54:37 PM - INFO - 输入密码
+2019/03/13 14:54:37 PM - INFO - 输入验证码
+2019/03/13 14:54:37 PM - INFO - 点击登录
+2019/03/13 14:55:09 PM - INFO - 打开网页
+2019/03/13 14:55:09 PM - INFO - 输入用户名
+2019/03/13 14:55:09 PM - INFO - 输入密码
+2019/03/13 14:55:09 PM - INFO - 输入验证码
+2019/03/13 14:55:09 PM - INFO - 点击登录
+2019/03/13 15:01:49 PM - INFO - 打开网页
+2019/03/13 15:07:07 PM - INFO - 打开网页
+2019/03/13 15:18:14 PM - INFO - 打开网页
+2019/03/13 15:19:32 PM - INFO - 打开网页
+2019/03/13 15:23:05 PM - INFO - 打开网页
+2019/03/13 15:48:54 PM - ERROR - <Page_object.incall.in_Call object at 0x000001D998EEFC18> 页面中未能找到 ('id', "// *[@id='app'] //div/div[2]/div[2]/button[2]") 元素
+2019/03/13 15:52:36 PM - INFO - 打开网页
+2019/03/13 15:52:36 PM - INFO - 输入用户名
+2019/03/13 15:52:36 PM - INFO - 输入密码
+2019/03/13 15:52:36 PM - INFO - 输入验证码
+2019/03/13 15:52:36 PM - INFO - 点击登录
+2019/03/13 15:52:39 PM - INFO - 选择案件管理
+2019/03/13 15:52:45 PM - INFO - 点击处理按钮
+2019/03/13 15:52:46 PM - INFO - 点击新建院前按钮
+2019/03/13 15:52:47 PM - INFO - 输入伤患姓名
+2019/03/13 15:52:47 PM - INFO - 输入伤患年龄
+2019/03/13 15:52:50 PM - INFO - 选择客户来源按鈕
+2019/03/13 15:52:50 PM - INFO - 选择客户来源
+2019/03/13 15:52:51 PM - INFO - 输入病情描述
+2019/03/13 15:52:51 PM - INFO - 输入事故地址
+2019/03/13 15:52:51 PM - INFO - 输入事故点经度
+2019/03/13 15:52:52 PM - INFO - 输入事故点纬度
+2019/03/13 15:52:52 PM - INFO - 输入转入医院
+2019/03/13 15:59:53 PM - ERROR - <Page_object.incall.in_Call object at 0x0000022F9A63E4E0> 页面中未能找到 By.ID, 'form_search' 元素
+2019/03/13 15:59:55 PM - ERROR - <Page_object.incall.in_Call object at 0x0000022F9A63E4E0> 页面中未能找到 By.ID, 'form_search' 元素
+2019/03/13 15:59:58 PM - ERROR - <Page_object.incall.in_Call object at 0x0000022F9A63E4E0> 页面中未能找到 By.ID, 'form_search' 元素
+2019/03/13 16:00:00 PM - ERROR - <Page_object.incall.in_Call object at 0x0000022F9A63E4E0> 页面中未能找到 By.ID, 'form_search' 元素
+2019/03/13 16:00:02 PM - ERROR - <Page_object.incall.in_Call object at 0x0000022F9A63E4E0> 页面中未能找到 By.ID, 'form_search' 元素
+2019/03/13 16:00:04 PM - ERROR - <Page_object.incall.in_Call object at 0x0000022F9A63E4E0> 页面中未能找到 By.ID, 'form_search' 元素
+2019/03/13 16:00:06 PM - ERROR - <Page_object.incall.in_Call object at 0x0000022F9A63E4E0> 页面中未能找到 By.ID, 'form_search' 元素
+2019/03/13 16:00:09 PM - ERROR - <Page_object.incall.in_Call object at 0x0000022F9A63E4E0> 页面中未能找到 By.ID, 'form_search' 元素
+2019/03/13 16:00:11 PM - ERROR - <Page_object.incall.in_Call object at 0x0000022F9A63E4E0> 页面中未能找到 By.ID, 'form_search' 元素
+2019/03/13 16:00:14 PM - ERROR - <Page_object.incall.in_Call object at 0x0000022F9A63E4E0> 页面中未能找到 By.ID, 'form_search' 元素
+2019/03/13 16:00:17 PM - ERROR - <Page_object.incall.in_Call object at 0x0000022F9A63E4E0> 页面中未能找到 By.ID, 'form_search' 元素
+2019/03/13 16:00:20 PM - ERROR - <Page_object.incall.in_Call object at 0x0000022F9A63E4E0> 页面中未能找到 By.ID, 'form_search' 元素
+2019/03/13 16:00:23 PM - ERROR - <Page_object.incall.in_Call object at 0x0000022F9A63E4E0> 页面中未能找到 By.ID, 'form_search' 元素
+2019/03/13 16:00:26 PM - ERROR - <Page_object.incall.in_Call object at 0x0000022F9A63E4E0> 页面中未能找到 By.ID, 'form_search' 元素
+2019/03/13 16:00:30 PM - ERROR - <Page_object.incall.in_Call object at 0x0000022F9A63E4E0> 页面中未能找到 By.ID, 'form_search' 元素
+2019/03/13 16:00:33 PM - ERROR - <Page_object.incall.in_Call object at 0x0000022F9A63E4E0> 页面中未能找到 By.ID, 'form_search' 元素
+2019/03/13 16:01:58 PM - ERROR - <Page_object.incall.in_Call object at 0x000002D8FA86FCF8> 页面中未能找到 By.ID, 'form_search' 元素
+2019/03/13 16:02:00 PM - ERROR - <Page_object.incall.in_Call object at 0x000002D8FA86FCF8> 页面中未能找到 By.ID, 'form_search' 元素
+2019/03/13 16:02:02 PM - ERROR - <Page_object.incall.in_Call object at 0x000002D8FA86FCF8> 页面中未能找到 By.ID, 'form_search' 元素
+2019/03/13 16:02:04 PM - ERROR - <Page_object.incall.in_Call object at 0x000002D8FA86FCF8> 页面中未能找到 By.ID, 'form_search' 元素
+2019/03/13 16:02:06 PM - ERROR - <Page_object.incall.in_Call object at 0x000002D8FA86FCF8> 页面中未能找到 By.ID, 'form_search' 元素
+2019/03/13 16:02:09 PM - ERROR - <Page_object.incall.in_Call object at 0x000002D8FA86FCF8> 页面中未能找到 By.ID, 'form_search' 元素
+2019/03/13 16:02:11 PM - ERROR - <Page_object.incall.in_Call object at 0x000002D8FA86FCF8> 页面中未能找到 By.ID, 'form_search' 元素
+2019/03/13 16:02:13 PM - ERROR - <Page_object.incall.in_Call object at 0x000002D8FA86FCF8> 页面中未能找到 By.ID, 'form_search' 元素
+2019/03/13 16:02:15 PM - ERROR - <Page_object.incall.in_Call object at 0x000002D8FA86FCF8> 页面中未能找到 By.ID, 'form_search' 元素
+2019/03/13 16:02:17 PM - ERROR - <Page_object.incall.in_Call object at 0x000002D8FA86FCF8> 页面中未能找到 By.ID, 'form_search' 元素
+2019/03/13 16:02:19 PM - ERROR - <Page_object.incall.in_Call object at 0x000002D8FA86FCF8> 页面中未能找到 By.ID, 'form_search' 元素
+2019/03/13 16:02:21 PM - ERROR - <Page_object.incall.in_Call object at 0x000002D8FA86FCF8> 页面中未能找到 By.ID, 'form_search' 元素
+2019/03/13 16:02:23 PM - ERROR - <Page_object.incall.in_Call object at 0x000002D8FA86FCF8> 页面中未能找到 By.ID, 'form_search' 元素
+2019/03/13 16:02:25 PM - ERROR - <Page_object.incall.in_Call object at 0x000002D8FA86FCF8> 页面中未能找到 By.ID, 'form_search' 元素
+2019/03/13 16:02:27 PM - ERROR - <Page_object.incall.in_Call object at 0x000002D8FA86FCF8> 页面中未能找到 By.ID, 'form_search' 元素
+2019/03/13 16:02:29 PM - ERROR - <Page_object.incall.in_Call object at 0x000002D8FA86FCF8> 页面中未能找到 By.ID, 'form_search' 元素
+2019/03/13 16:02:31 PM - ERROR - <Page_object.incall.in_Call object at 0x000002D8FA86FCF8> 页面中未能找到 By.ID, 'form_search' 元素
+2019/03/13 16:02:33 PM - ERROR - <Page_object.incall.in_Call object at 0x000002D8FA86FCF8> 页面中未能找到 By.ID, 'form_search' 元素
+2019/03/13 16:02:35 PM - ERROR - <Page_object.incall.in_Call object at 0x000002D8FA86FCF8> 页面中未能找到 By.ID, 'form_search' 元素
+2019/03/13 16:02:37 PM - ERROR - <Page_object.incall.in_Call object at 0x000002D8FA86FCF8> 页面中未能找到 By.ID, 'form_search' 元素
+2019/03/13 16:04:21 PM - ERROR - <Page_object.incall.in_Call object at 0x0000025D80ABEC88> 页面中未能找到 form_search 元素
+2019/03/13 16:04:23 PM - ERROR - <Page_object.incall.in_Call object at 0x0000025D80ABEC88> 页面中未能找到 form_search 元素
+2019/03/13 16:04:25 PM - ERROR - <Page_object.incall.in_Call object at 0x0000025D80ABEC88> 页面中未能找到 form_search 元素
+2019/03/13 16:04:27 PM - ERROR - <Page_object.incall.in_Call object at 0x0000025D80ABEC88> 页面中未能找到 form_search 元素
+2019/03/13 16:04:29 PM - ERROR - <Page_object.incall.in_Call object at 0x0000025D80ABEC88> 页面中未能找到 form_search 元素
+2019/03/13 16:04:32 PM - ERROR - <Page_object.incall.in_Call object at 0x0000025D80ABEC88> 页面中未能找到 form_search 元素
+2019/03/13 16:04:34 PM - ERROR - <Page_object.incall.in_Call object at 0x0000025D80ABEC88> 页面中未能找到 form_search 元素
+2019/03/13 16:04:36 PM - ERROR - <Page_object.incall.in_Call object at 0x0000025D80ABEC88> 页面中未能找到 form_search 元素
+2019/03/13 16:04:38 PM - ERROR - <Page_object.incall.in_Call object at 0x0000025D80ABEC88> 页面中未能找到 form_search 元素
+2019/03/13 16:33:33 PM - ERROR - <Page_object.incall.in_Call object at 0x00000232CCA61D68> 页面中未能找到 ('id', 'form_search') 元素
+2019/03/13 16:33:33 PM - ERROR - <Page_object.incall.in_Call object at 0x00000232CCA61D68> 页面中未能找到 ('id', 'form_search') 元素
+2019/03/13 16:57:16 PM - ERROR - <Page_object.incall.in_Call object at 0x000001DD950C1EB8> 页面中未能找到 ('id', 'form_search') 元素
+2019/03/13 16:57:16 PM - ERROR - <Page_object.incall.in_Call object at 0x000001DD950C1EB8> 页面中未能找到 ('id', 'form_search') 元素
+2019/03/13 16:57:19 PM - INFO - 发送邮件成功
+2019/03/13 17:29:53 PM - ERROR - <Page_object.incall.in_Call object at 0x000002C9012D1DD8> 页面中未能找到 ('id', 'form_search') 元素
+2019/03/13 17:29:53 PM - ERROR - <Page_object.incall.in_Call object at 0x000002C9012D1DD8> 页面中未能找到 ('id', 'form_search') 元素
+2019/03/13 17:29:56 PM - INFO - 发送邮件成功
+2019/03/13 17:32:00 PM - INFO - 发送邮件成功
+2019/03/13 17:33:22 PM - INFO - 打开网页
+2019/03/13 17:34:43 PM - INFO - 打开网页
+2019/03/13 17:34:45 PM - INFO - 打开网页
+2019/03/13 17:35:03 PM - ERROR - <Page_object.incall.in_Call object at 0x000002463FA62780> 页面中未能找到 ('id', 'form_search') 元素
+2019/03/13 17:35:03 PM - ERROR - <Page_object.incall.in_Call object at 0x000002463FA62780> 页面中未能找到 ('id', 'form_search') 元素
+2019/03/13 17:35:07 PM - INFO - 发送邮件成功
+2019/03/13 17:44:17 PM - INFO - 打开网页
+2019/03/13 17:44:18 PM - INFO - 打开网页
+2019/03/13 18:22:19 PM - INFO - 打开网页
+2019/03/13 18:22:20 PM - INFO - 打开网页
+2019/03/13 18:25:23 PM - ERROR - <Page_object.incall.in_Call object at 0x00000238F1E2FE10> 页面中未能找到 ('id', 'form_search') 元素
+2019/03/13 18:25:23 PM - ERROR - <Page_object.incall.in_Call object at 0x00000238F1E2FE10> 页面中未能找到 ('id', 'form_search') 元素
+2019/03/13 18:25:26 PM - INFO - 发送邮件成功
+2019/03/13 18:25:59 PM - INFO - 打开网页
+2019/03/13 18:26:00 PM - INFO - 打开网页
+2019/03/13 19:41:51 PM - INFO - 打开网页
+2019/03/13 19:41:53 PM - INFO - 打开网页
+2019/03/13 20:57:07 PM - INFO - 打开网页
+2019/03/13 20:57:08 PM - INFO - 打开网页
+2019/03/13 22:03:11 PM - ERROR - <Page_object.incall.in_Call object at 0x00000181A04045C0> 页面中未能找到 ('id', 'form_search') 元素
+2019/03/13 22:03:11 PM - ERROR - <Page_object.incall.in_Call object at 0x00000181A04045C0> 页面中未能找到 ('id', 'form_search') 元素
+2019/03/13 22:13:17 PM - INFO - 打开网页
+2019/03/13 22:13:19 PM - INFO - 打开网页
+2019/03/13 23:26:53 PM - ERROR - <Page_object.incall.in_Call object at 0x00000181A0404358> 页面中未能找到 ('id', 'form_search') 元素
+2019/03/13 23:26:53 PM - ERROR - <Page_object.incall.in_Call object at 0x00000181A0404358> 页面中未能找到 ('id', 'form_search') 元素
+2019/03/13 23:37:00 PM - INFO - 打开网页
+2019/03/13 23:37:01 PM - INFO - 打开网页
+2019/03/14 00:53:43 AM - INFO - 打开网页
+2019/03/14 00:53:44 AM - INFO - 打开网页
+2019/03/14 01:59:54 AM - ERROR - <Page_object.incall.in_Call object at 0x00000181A03C84A8> 页面中未能找到 ('id', 'form_search') 元素
+2019/03/14 01:59:54 AM - ERROR - <Page_object.incall.in_Call object at 0x00000181A03C84A8> 页面中未能找到 ('id', 'form_search') 元素
+2019/03/14 02:10:01 AM - INFO - 打开网页
+2019/03/14 02:10:02 AM - INFO - 打开网页
+2019/03/14 03:22:06 AM - INFO - 打开网页
+2019/03/14 03:22:08 AM - INFO - 打开网页
+2019/03/14 04:40:29 AM - INFO - 打开网页
+2019/03/14 04:40:31 AM - INFO - 打开网页
+2019/03/14 05:47:16 AM - INFO - 打开网页
+2019/03/14 05:47:17 AM - INFO - 打开网页
+2019/03/14 07:03:53 AM - INFO - 打开网页
+2019/03/14 07:03:55 AM - INFO - 打开网页
+2019/03/14 08:12:50 AM - ERROR - <Page_object.incall.in_Call object at 0x00000181A078C828> 页面中未能找到 ('id', 'form_search') 元素
+2019/03/14 08:12:50 AM - ERROR - <Page_object.incall.in_Call object at 0x00000181A078C828> 页面中未能找到 ('id', 'form_search') 元素
+2019/03/14 08:22:57 AM - INFO - 打开网页
+2019/03/14 08:22:58 AM - INFO - 打开网页
+2019/03/14 09:27:08 AM - ERROR - <Page_object.incall.in_Call object at 0x00000181A08629B0> 页面中未能找到 ('id', 'form_search') 元素
+2019/03/14 09:27:08 AM - ERROR - <Page_object.incall.in_Call object at 0x00000181A08629B0> 页面中未能找到 ('id', 'form_search') 元素
+2019/03/14 09:27:10 AM - INFO - 发送邮件成功
+2019/03/14 09:27:17 AM - INFO - 打开网页
+2019/03/14 09:27:19 AM - INFO - 打开网页

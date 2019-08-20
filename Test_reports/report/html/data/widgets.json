@@ -1,0 +1,64 @@
+{
+  "hash" : "e7105c43ada45c9f6e0006854ef1a1d95249231d",
+  "plugins" : {
+    "total" : {
+      "statistic" : {
+        "total" : 2,
+        "passed" : 0,
+        "pending" : 0,
+        "canceled" : 0,
+        "failed" : 2,
+        "broken" : 0
+      },
+      "time" : {
+        "start" : 1552270851965,
+        "stop" : 1552270883703,
+        "duration" : 31738
+      }
+    },
+    "defects" : {
+      "totalCount" : 2,
+      "items" : [ {
+        "count" : 1,
+        "uid" : "e145c9a1d5b509dd",
+        "message" : "AttributeError: 'NoneType' object has no attribute 'click'",
+        "status" : "FAILED"
+      }, {
+        "count" : 1,
+        "uid" : "6c8c2d25b758361d",
+        "message" : "AttributeError: 'NoneType' object has no attribute 'text'",
+        "status" : "FAILED"
+      } ]
+    },
+    "xunit" : {
+      "totalCount" : 1,
+      "items" : [ {
+        "uid" : "ed931d19d9cbb2",
+        "title" : "Test case",
+        "statistic" : {
+          "total" : 2,
+          "passed" : 0,
+          "pending" : 0,
+          "canceled" : 0,
+          "failed" : 2,
+          "broken" : 0
+        }
+      } ]
+    },
+    "behaviors" : {
+      "totalCount" : 1,
+      "items" : [ {
+        "title" : "工单流程",
+        "statistic" : {
+          "total" : 2,
+          "passed" : 0,
+          "pending" : 0,
+          "canceled" : 0,
+          "failed" : 2,
+          "broken" : 0
+        }
+      } ]
+    },
+    "environment" : [ ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "uid" : "fab6e31fdcd9ad24",
+  "name" : "new_order.Casejinhui120.test_sale_BB_2",
+  "title" : "Test sale BB 2",
+  "time" : {
+    "start" : 1550564193051,
+    "stop" : 1550564214109,
+    "duration" : 21058
+  },
+  "summary" : {
+    "attachments" : 1,
+    "steps" : 2
+  },
+  "failure" : null,
+  "description" : {
+    "value" : "dict() -> new empty dictionary\ndict(mapping) -> new dictionary initialized from a mapping object's\n    (key, value) pairs\ndict(iterable) -> new dictionary initialized as if via:\n    d = {}\n    for k, v in iterable:\n        d[k] = v\ndict(**kwargs) -> new dictionary initialized with the name=value pairs\n    in the keyword argument list.  For example:  dict(one=1, two=2)",
+    "type" : "TEXT"
+  },
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "50cb2d5950b0927d",
+    "name" : "Test_case",
+    "title" : "Test case"
+  },
+  "steps" : [ {
+    "name" : "进入到医务官处理页面",
+    "title" : "进入到医务官处理页面",
+    "time" : {
+      "start" : 1550564193052,
+      "stop" : 1550564205109,
+      "duration" : 12057
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "医务官处理接单拒单操作",
+    "title" : "医务官处理接单拒单操作",
+    "time" : {
+      "start" : 1550564205109,
+      "stop" : 1550564214109,
+      "duration" : 9000
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ {
+    "title" : "Captured log call",
+    "source" : "14ae6770-099b-4e61-ad07-582c93c2376f-attachment.txt",
+    "type" : "text/plain",
+    "size" : 589,
+    "uid" : "72e5e863bd598d1f"
+  } ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "工单流程"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-7LKB5Q7"
+  }, {
+    "name" : "suite-name",
+    "value" : "Test_case"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "thread",
+    "value" : "8360-MainThread"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "story",
+    "value" : "医务官处理工单"
+  } ],
+  "parameters" : [ ]
+}

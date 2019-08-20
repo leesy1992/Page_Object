@@ -1,0 +1,5 @@
+loginpage.py                42 INFO     打开网页
+loginpage.py                46 INFO     输入用户名
+loginpage.py                51 INFO     输入密码
+loginpage.py                57 INFO     输入验证码
+loginpage.py                87 INFO     点击登录

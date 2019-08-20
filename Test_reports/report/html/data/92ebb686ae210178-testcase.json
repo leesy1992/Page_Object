@@ -1,0 +1,101 @@
+{
+  "uid" : "92ebb686ae210178",
+  "name" : "new_order.Casejinhui120.test_sale_AA_1",
+  "title" : "Test sale AA 1",
+  "time" : {
+    "start" : 1550564101005,
+    "stop" : 1550564125013,
+    "duration" : 24008
+  },
+  "summary" : {
+    "attachments" : 2,
+    "steps" : 2
+  },
+  "failure" : null,
+  "description" : {
+    "value" : "dict() -> new empty dictionary\ndict(mapping) -> new dictionary initialized from a mapping object's\n    (key, value) pairs\ndict(iterable) -> new dictionary initialized as if via:\n    d = {}\n    for k, v in iterable:\n        d[k] = v\ndict(**kwargs) -> new dictionary initialized with the name=value pairs\n    in the keyword argument list.  For example:  dict(one=1, two=2)",
+    "type" : "TEXT"
+  },
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "50cb2d5950b0927d",
+    "name" : "Test_case",
+    "title" : "Test case"
+  },
+  "steps" : [ {
+    "name" : "进入案件新建院前",
+    "title" : "进入案件新建院前",
+    "time" : {
+      "start" : 1550564108667,
+      "stop" : 1550564114909,
+      "duration" : 6242
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "填写院前工单信息",
+    "title" : "填写院前工单信息",
+    "time" : {
+      "start" : 1550564114909,
+      "stop" : 1550564125013,
+      "duration" : 10104
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ {
+    "title" : "Captured log setup",
+    "source" : "73a98cf1-afd8-460a-b625-45f8add6c597-attachment.txt",
+    "type" : "text/plain",
+    "size" : 270,
+    "uid" : "884db58b9d3ab367"
+  }, {
+    "title" : "Captured log call",
+    "source" : "c9e342f8-9ec5-4da3-a71d-ab6873c7e1e0-attachment.txt",
+    "type" : "text/plain",
+    "size" : 855,
+    "uid" : "88be92f624d4b845"
+  } ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "工单流程"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-7LKB5Q7"
+  }, {
+    "name" : "story",
+    "value" : "新建院前工单"
+  }, {
+    "name" : "suite-name",
+    "value" : "Test_case"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "thread",
+    "value" : "8360-MainThread"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  } ],
+  "parameters" : [ ]
+}

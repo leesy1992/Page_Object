@@ -1,0 +1,95 @@
+{
+  "uid" : "a25b7b3b813c2f9b",
+  "name" : "base_test.Casejinhui120.test_sale_DD_2",
+  "title" : "Test sale DD 2",
+  "time" : {
+    "start" : 1550564298508,
+    "stop" : 1550564306278,
+    "duration" : 7770
+  },
+  "summary" : {
+    "attachments" : 1,
+    "steps" : 2
+  },
+  "failure" : null,
+  "description" : {
+    "value" : "dict() -> new empty dictionary\ndict(mapping) -> new dictionary initialized from a mapping object's\n    (key, value) pairs\ndict(iterable) -> new dictionary initialized as if via:\n    d = {}\n    for k, v in iterable:\n        d[k] = v\ndict(**kwargs) -> new dictionary initialized with the name=value pairs\n    in the keyword argument list.  For example:  dict(one=1, two=2)",
+    "type" : "TEXT"
+  },
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "50cb2d5950b0927d",
+    "name" : "Test_case",
+    "title" : "Test case"
+  },
+  "steps" : [ {
+    "name" : "进入救援中工单",
+    "title" : "进入救援中工单",
+    "time" : {
+      "start" : 1550564298509,
+      "stop" : 1550564302654,
+      "duration" : 4145
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "救援取消/成功操作",
+    "title" : "救援取消/成功操作",
+    "time" : {
+      "start" : 1550564302654,
+      "stop" : 1550564306277,
+      "duration" : 3623
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ {
+    "title" : "Captured log call",
+    "source" : "03414851-b844-4b4d-a0c6-b95b90b6fc3b-attachment.txt",
+    "type" : "text/plain",
+    "size" : 324,
+    "uid" : "de51ba621c5200bb"
+  } ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "工单流程"
+  }, {
+    "name" : "story",
+    "value" : "处理救援中工单"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-7LKB5Q7"
+  }, {
+    "name" : "suite-name",
+    "value" : "Test_case"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "thread",
+    "value" : "8360-MainThread"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  } ],
+  "parameters" : [ ]
+}

@@ -1,0 +1,83 @@
+{
+  "uid" : "e718a1cd96d633e6",
+  "name" : "new_order.Casejinhui120.test_sale_BB_1",
+  "title" : "Test sale BB 1",
+  "time" : {
+    "start" : 1552270871561,
+    "stop" : 1552270883703,
+    "duration" : 12142
+  },
+  "summary" : {
+    "attachments" : 1,
+    "steps" : 1
+  },
+  "failure" : {
+    "message" : "AttributeError: 'NoneType' object has no attribute 'text'",
+    "stackTrace" : "self = <Test_case.new_order.Casejinhui120 testMethod=test_sale_BB_1>\ndata = {'Ba_judge': 1.0, 'Dc_idea': '医务官判定接单成功且救援成功', 'Dis_decribe': '病情描述病情嚴重', 'Out_adress': '上海市杨浦区控江路', ...}\n\n    @ddt.data(*testData)\n    @allure.feature(\"工单流程\")\n    @allure.story(\"医务官处理工单\")\n    def test_sale_BB(self,data):     #医务官处理工单\n        with allure.step(\"进入到医务官处理页面\"):\n            #医务官处理信息\n            sleep(2)\n            self.driver.refresh()\n>           self.call.processed_Order()\n\nnew_order.py:110: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nself = <Page_object.incall.in_Call object at 0x0000020AA5073F28>\n\n    def processed_Order(self):\n        l1=self.element_find(*self.order_mages)\n>       if l1.text==\"救援工单\":\nE       AttributeError: 'NoneType' object has no attribute 'text'\n\n..\\Page_object\\incall.py:59: AttributeError"
+  },
+  "description" : {
+    "value" : "dict() -> new empty dictionary\ndict(mapping) -> new dictionary initialized from a mapping object's\n    (key, value) pairs\ndict(iterable) -> new dictionary initialized as if via:\n    d = {}\n    for k, v in iterable:\n        d[k] = v\ndict(**kwargs) -> new dictionary initialized with the name=value pairs\n    in the keyword argument list.  For example:  dict(one=1, two=2)",
+    "type" : "TEXT"
+  },
+  "severity" : "NORMAL",
+  "status" : "FAILED",
+  "suite" : {
+    "uid" : "ed931d19d9cbb2",
+    "name" : "Test_case",
+    "title" : "Test case"
+  },
+  "steps" : [ {
+    "name" : "进入到医务官处理页面",
+    "title" : "进入到医务官处理页面",
+    "time" : {
+      "start" : 1552270871562,
+      "stop" : 1552270883698,
+      "duration" : 12136
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "FAILED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ {
+    "title" : "Captured log call",
+    "source" : "6df1c975-93a4-4ec5-9bda-fc70a6fa03fb-attachment.txt",
+    "type" : "text/plain",
+    "size" : 164,
+    "uid" : "14ac7c4b0945dc29"
+  } ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "thread",
+    "value" : "5472-MainThread"
+  }, {
+    "name" : "feature",
+    "value" : "工单流程"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-7LKB5Q7"
+  }, {
+    "name" : "suite-name",
+    "value" : "Test_case"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "story",
+    "value" : "医务官处理工单"
+  } ],
+  "parameters" : [ ]
+}

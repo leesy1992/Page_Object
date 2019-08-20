@@ -1,0 +1,101 @@
+{
+  "uid" : "73437b29a6051ee5",
+  "name" : "base_test.Casejinhui120.test_sale_CC_1",
+  "title" : "Test sale CC 1",
+  "time" : {
+    "start" : 1550564257827,
+    "stop" : 1550564274034,
+    "duration" : 16207
+  },
+  "summary" : {
+    "attachments" : 2,
+    "steps" : 2
+  },
+  "failure" : null,
+  "description" : {
+    "value" : "dict() -> new empty dictionary\ndict(mapping) -> new dictionary initialized from a mapping object's\n    (key, value) pairs\ndict(iterable) -> new dictionary initialized as if via:\n    d = {}\n    for k, v in iterable:\n        d[k] = v\ndict(**kwargs) -> new dictionary initialized with the name=value pairs\n    in the keyword argument list.  For example:  dict(one=1, two=2)",
+    "type" : "TEXT"
+  },
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "50cb2d5950b0927d",
+    "name" : "Test_case",
+    "title" : "Test case"
+  },
+  "steps" : [ {
+    "name" : "进入到待基地处理页面",
+    "title" : "进入到待基地处理页面",
+    "time" : {
+      "start" : 1550564265419,
+      "stop" : 1550564269800,
+      "duration" : 4381
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "基地经理接单拒单操作",
+    "title" : "基地经理接单拒单操作",
+    "time" : {
+      "start" : 1550564269800,
+      "stop" : 1550564274034,
+      "duration" : 4234
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ {
+    "title" : "Captured log setup",
+    "source" : "c3f6fe12-a14d-4028-a2f9-2e0e63c186b7-attachment.txt",
+    "type" : "text/plain",
+    "size" : 270,
+    "uid" : "42fcf1145fabe805"
+  }, {
+    "title" : "Captured log call",
+    "source" : "dcbf089a-d5c0-45f6-afcf-0e71088669e8-attachment.txt",
+    "type" : "text/plain",
+    "size" : 297,
+    "uid" : "8a2369465ab7ea6e"
+  } ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "工单流程"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-7LKB5Q7"
+  }, {
+    "name" : "story",
+    "value" : "基地经理处理"
+  }, {
+    "name" : "suite-name",
+    "value" : "Test_case"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "thread",
+    "value" : "8360-MainThread"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  } ],
+  "parameters" : [ ]
+}

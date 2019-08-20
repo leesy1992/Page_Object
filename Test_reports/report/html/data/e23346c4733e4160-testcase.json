@@ -1,0 +1,89 @@
+{
+  "uid" : "e23346c4733e4160",
+  "name" : "new_order.Casejinhui120.test_sale_AA_1",
+  "title" : "Test sale AA 1",
+  "time" : {
+    "start" : 1552270851965,
+    "stop" : 1552270871559,
+    "duration" : 19594
+  },
+  "summary" : {
+    "attachments" : 2,
+    "steps" : 1
+  },
+  "failure" : {
+    "message" : "AttributeError: 'NoneType' object has no attribute 'click'",
+    "stackTrace" : "self = <Test_case.new_order.Casejinhui120 testMethod=test_sale_AA_1>\ndata = {'Ba_judge': 1.0, 'Dc_idea': '医务官判定接单成功且救援成功', 'Dis_decribe': '病情描述病情嚴重', 'Out_adress': '上海市杨浦区控江路', ...}\n\n    @ddt.data(*testData)\n    @allure.feature(\"工单流程\")\n    @allure.story(\"新建院前工单\")\n    def test_sale_AA(self,data):     #新建院前工单\n        with allure.step(\"进入案件新建院前\"):\n            #进入案件\n            sleep(2)\n            self.driver.refresh()\n            sleep(0.5)\n>           self.call.case_mages()\n\nnew_order.py:79: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nself = <Page_object.incall.in_Call object at 0x0000020AA5073F28>\n\n    def case_mages(self):\n>       self.element_find(*self.case_mage).click()\nE       AttributeError: 'NoneType' object has no attribute 'click'\n\n..\\Page_object\\incall.py:48: AttributeError"
+  },
+  "description" : {
+    "value" : "dict() -> new empty dictionary\ndict(mapping) -> new dictionary initialized from a mapping object's\n    (key, value) pairs\ndict(iterable) -> new dictionary initialized as if via:\n    d = {}\n    for k, v in iterable:\n        d[k] = v\ndict(**kwargs) -> new dictionary initialized with the name=value pairs\n    in the keyword argument list.  For example:  dict(one=1, two=2)",
+    "type" : "TEXT"
+  },
+  "severity" : "NORMAL",
+  "status" : "FAILED",
+  "suite" : {
+    "uid" : "ed931d19d9cbb2",
+    "name" : "Test_case",
+    "title" : "Test case"
+  },
+  "steps" : [ {
+    "name" : "进入案件新建院前",
+    "title" : "进入案件新建院前",
+    "time" : {
+      "start" : 1552270858856,
+      "stop" : 1552270871514,
+      "duration" : 12658
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "FAILED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ {
+    "title" : "Captured log setup",
+    "source" : "110c5ffb-85df-4998-8750-16d2c2ce9e67-attachment.txt",
+    "type" : "text/plain",
+    "size" : 270,
+    "uid" : "28e1e825b89f97f8"
+  }, {
+    "title" : "Captured log call",
+    "source" : "0052c9bd-cef4-4c06-8984-c100814e598a-attachment.txt",
+    "type" : "text/plain",
+    "size" : 164,
+    "uid" : "b0d45db52f1e80cb"
+  } ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "thread",
+    "value" : "5472-MainThread"
+  }, {
+    "name" : "feature",
+    "value" : "工单流程"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-7LKB5Q7"
+  }, {
+    "name" : "story",
+    "value" : "新建院前工单"
+  }, {
+    "name" : "suite-name",
+    "value" : "Test_case"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  } ],
+  "parameters" : [ ]
+}

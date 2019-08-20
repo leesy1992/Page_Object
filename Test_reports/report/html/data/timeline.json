@@ -1,0 +1,31 @@
+{
+  "hosts" : [ {
+    "title" : "DESKTOP-7LKB5Q7",
+    "threads" : [ {
+      "title" : "5472-MainThread",
+      "testCases" : [ {
+        "uid" : "e23346c4733e4160",
+        "name" : "new_order.Casejinhui120.test_sale_AA_1",
+        "title" : "Test sale AA 1",
+        "time" : {
+          "start" : 1552270851965,
+          "stop" : 1552270871559,
+          "duration" : 19594
+        },
+        "severity" : "NORMAL",
+        "status" : "FAILED"
+      }, {
+        "uid" : "e718a1cd96d633e6",
+        "name" : "new_order.Casejinhui120.test_sale_BB_1",
+        "title" : "Test sale BB 1",
+        "time" : {
+          "start" : 1552270871561,
+          "stop" : 1552270883703,
+          "duration" : 12142
+        },
+        "severity" : "NORMAL",
+        "status" : "FAILED"
+      } ]
+    } ]
+  } ]
+}

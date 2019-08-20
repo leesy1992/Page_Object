@@ -1,0 +1,47 @@
+{
+  "defectsList" : [ {
+    "title" : "Product defects",
+    "status" : "FAILED",
+    "defects" : [ {
+      "uid" : "e145c9a1d5b509dd",
+      "failure" : {
+        "message" : "AttributeError: 'NoneType' object has no attribute 'click'",
+        "stackTrace" : "self = <Test_case.new_order.Casejinhui120 testMethod=test_sale_AA_1>\ndata = {'Ba_judge': 1.0, 'Dc_idea': '医务官判定接单成功且救援成功', 'Dis_decribe': '病情描述病情嚴重', 'Out_adress': '上海市杨浦区控江路', ...}\n\n    @ddt.data(*testData)\n    @allure.feature(\"工单流程\")\n    @allure.story(\"新建院前工单\")\n    def test_sale_AA(self,data):     #新建院前工单\n        with allure.step(\"进入案件新建院前\"):\n            #进入案件\n            sleep(2)\n            self.driver.refresh()\n            sleep(0.5)\n>           self.call.case_mages()\n\nnew_order.py:79: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nself = <Page_object.incall.in_Call object at 0x0000020AA5073F28>\n\n    def case_mages(self):\n>       self.element_find(*self.case_mage).click()\nE       AttributeError: 'NoneType' object has no attribute 'click'\n\n..\\Page_object\\incall.py:48: AttributeError"
+      },
+      "testCases" : [ {
+        "uid" : "e23346c4733e4160",
+        "name" : "new_order.Casejinhui120.test_sale_AA_1",
+        "title" : "Test sale AA 1",
+        "time" : {
+          "start" : 1552270851965,
+          "stop" : 1552270871559,
+          "duration" : 19594
+        },
+        "severity" : "NORMAL",
+        "status" : "FAILED"
+      } ]
+    }, {
+      "uid" : "6c8c2d25b758361d",
+      "failure" : {
+        "message" : "AttributeError: 'NoneType' object has no attribute 'text'",
+        "stackTrace" : "self = <Test_case.new_order.Casejinhui120 testMethod=test_sale_BB_1>\ndata = {'Ba_judge': 1.0, 'Dc_idea': '医务官判定接单成功且救援成功', 'Dis_decribe': '病情描述病情嚴重', 'Out_adress': '上海市杨浦区控江路', ...}\n\n    @ddt.data(*testData)\n    @allure.feature(\"工单流程\")\n    @allure.story(\"医务官处理工单\")\n    def test_sale_BB(self,data):     #医务官处理工单\n        with allure.step(\"进入到医务官处理页面\"):\n            #医务官处理信息\n            sleep(2)\n            self.driver.refresh()\n>           self.call.processed_Order()\n\nnew_order.py:110: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nself = <Page_object.incall.in_Call object at 0x0000020AA5073F28>\n\n    def processed_Order(self):\n        l1=self.element_find(*self.order_mages)\n>       if l1.text==\"救援工单\":\nE       AttributeError: 'NoneType' object has no attribute 'text'\n\n..\\Page_object\\incall.py:59: AttributeError"
+      },
+      "testCases" : [ {
+        "uid" : "e718a1cd96d633e6",
+        "name" : "new_order.Casejinhui120.test_sale_BB_1",
+        "title" : "Test sale BB 1",
+        "time" : {
+          "start" : 1552270871561,
+          "stop" : 1552270883703,
+          "duration" : 12142
+        },
+        "severity" : "NORMAL",
+        "status" : "FAILED"
+      } ]
+    } ]
+  }, {
+    "title" : "Test defects",
+    "status" : "BROKEN",
+    "defects" : [ ]
+  } ]
+}

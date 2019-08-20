@@ -1,0 +1,22 @@
+2019/02/20 09:40:49 AM - INFO - 打开网页
+2019/02/20 09:40:49 AM - INFO - 输入用户名
+2019/02/20 09:40:49 AM - INFO - 输入密码
+2019/02/20 09:40:49 AM - INFO - 输入验证码
+2019/02/20 09:40:50 AM - INFO - 点击登录
+2019/02/20 09:40:53 AM - INFO - 选择待处理工单
+2019/02/20 09:40:54 AM - INFO - 选择第一个工单
+2019/02/20 09:40:56 AM - INFO - 接单操作
+2019/02/20 09:40:57 AM - ERROR - <Page_object.base_processed.Base_proce object at 0x0000024E736E08D0> 页面中未能找到 ('id', 'beTime') 元素
+2019/02/20 09:41:33 AM - INFO - 打开网页
+2019/02/20 09:41:33 AM - INFO - 输入用户名
+2019/02/20 09:41:33 AM - INFO - 输入密码
+2019/02/20 09:41:33 AM - INFO - 输入验证码
+2019/02/20 09:41:34 AM - INFO - 点击登录
+2019/02/20 17:10:02 PM - INFO - 打开网页
+2019/02/20 17:10:02 PM - INFO - 输入用户名
+2019/02/20 17:10:02 PM - INFO - 输入密码
+2019/02/20 17:10:02 PM - INFO - 输入验证码
+2019/02/20 17:10:02 PM - INFO - 点击登录
+2019/02/20 17:10:08 PM - ERROR - <Page_object.incall.in_Call object at 0x000001996AF5E6A0> 页面中未能找到 ('xpath', "//*[@id='app']//ul/li[3]") 元素
+2019/02/20 17:10:11 PM - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001996AEFB1D0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/a2ae628f-47b8-4b31-b6d4-8e36946862fb
+2019/02/20 17:10:12 PM - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019969804C88>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/a2ae628f-47b8-4b31-b6d4-8e36946862fb
